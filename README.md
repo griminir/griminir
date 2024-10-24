@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Viktor and I'm from Trondheim, Norway. Looking for intership. Fluent in Norwegian and English</p>
+<p align="left">My name is Viktor and I'm from Trondheim, Norway. Fluent in Norwegian and English</p>
+<p align="left"> <strong>Looking for intership.</strong></p>
 
 ###
 
