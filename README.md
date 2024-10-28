@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I wanted to get into Python simple for the fact I love the idea of scripting and automating tasks, machines are here to make life easier for us not harder.<br><br>I trying to pick up Django since it builds on Python and i wanted to dip my toes in another web framework.<br><br>I'm wanting to try out Angular since it uses typescript and I like typescript a lot more the JavaScript after learning C#</p>
+<p align="left">I wanted to get into Python simple for the fact I love the idea of scripting and automating tasks, machines are here to make life easier for us not harder.<br><br>I trying to pick up Django since it builds on Python and I wanted to dip my toes in another web framework.<br><br>I'm wanting to try out Angular since it uses typescript and I like typescript a lot more then JavaScript after learning C#</p>
 
 ###
 
