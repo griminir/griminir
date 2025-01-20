@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since Aug 23.<br><br>🎯 next Goal: Build a full-stack app with Django, Angular and a SQL Database.<br>🎯 short term Goal: Get an intership at a company where i can develop my programming, problem solving, leadership and social skills further.<br>🎯 long term Goal: Getting a job in the field of development.<br>That is pretty much how far i have gotten on thinking about goals.<br><br>🎲 Fun fact: After I started learning programming it pretty much took over my gaming hobby.</p>
+<p align="left">✨ Creating bugs since Aug 23.<br>🎯 short term Goal: Get an intership at a company where i can develop my programming, problem solving, leadership and social skills further.<br>🎯 long term Goal: Getting a job in the field of development.<br>That is pretty much how far i have gotten on thinking about goals.<br><br>🎲 Fun fact: After I started learning programming it pretty much took over my gaming hobby.</p>
 
 
 <h2 align="left">I feel comfortable using</h2>
