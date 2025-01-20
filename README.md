@@ -14,16 +14,6 @@
 <p align="left">✨ Creating bugs since Aug 23.<br><br>🎯 next Goal: Build a full-stack app with Django, Angular and a SQL Database.<br>🎯 short term Goal: Get an intership at a company where i can develop my programming, problem solving, leadership and social skills further.<br>🎯 long term Goal: Getting a job in the field of development.<br>That is pretty much how far i have gotten on thinking about goals.<br><br>🎲 Fun fact: After I started learning programming it pretty much took over my gaming hobby.</p>
 
 
-###
-
-<h2 align="left">reasoning for learning what I'm learning</h2>
-
-###
-
-<p align="left">I wanted to get into Python simple for the fact I love the idea of scripting and automating tasks, machines are here to make life easier for us not harder.<br><br>I trying to pick up Django since it builds on Python and I wanted to dip my toes in another web framework.<br><br>I'm wanting to try out Angular since it uses typescript and I like typescript a lot more then JavaScript after learning C#</p>
-
-###
-
 <h2 align="left">I feel comfortable using</h2>
 
 ###
