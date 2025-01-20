@@ -13,19 +13,6 @@
 
 <p align="left">✨ Creating bugs since Aug 23.<br><br>🎯 next Goal: Build a full-stack app with Django, Angular and a SQL Database.<br>🎯 short term Goal: Get an intership at a company where i can develop my programming, problem solving, leadership and social skills further.<br>🎯 long term Goal: Getting a job in the field of development.<br>That is pretty much how far i have gotten on thinking about goals.<br><br>🎲 Fun fact: After I started learning programming it pretty much took over my gaming hobby.</p>
 
-###
-
-<h2 align="left">Currently learning</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-</div>
 
 ###
 
