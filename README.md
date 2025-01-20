@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my kingdom of code, the bugs are unwanted but I'm working on a way to fix that XD</h1>
+<h1 align="left">The bugs are unwanted but I'm working on a way to fix that XD</h1>
 
 ###
 
